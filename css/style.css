@@ -11,7 +11,7 @@ td {
   top:5px;
   font-size: 1em;
   font-family: 'Devonshire', cursive;
-  align: center;
+  text-align: "center";
 }
 tr {
   background-color: white;
