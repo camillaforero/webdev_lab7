@@ -22,6 +22,7 @@ tr {
   padding: 5px;
   background-color: white;
   margin: 10px 0 10px 20px;
+  align: center;
 }
 .image-s {
   float: right;
@@ -30,4 +31,5 @@ tr {
   padding: 5px;
   background-color: white;
   margin: 10px 0 10px 20px;
+  align: center;
 }
