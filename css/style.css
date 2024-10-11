@@ -1,6 +1,11 @@
 body {
   background-image: url("../images/stars.jpeg");
 }
+h1 {
+  top: 20px;
+  font-size: 3em;
+  font-family: 'Devonshire', cursive;
+}
 td {
   top:5px;
   font-size: 1em;
