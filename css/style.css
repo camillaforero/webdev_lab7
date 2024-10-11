@@ -11,6 +11,7 @@ td {
   top:5px;
   font-size: 1em;
   font-family: 'Devonshire', cursive;
+  align: center;
 }
 tr {
   background-color: white;
@@ -22,7 +23,6 @@ tr {
   padding: 5px;
   background-color: white;
   margin: 10px 0 10px 20px;
-  align: center;
 }
 .image-s {
   float: right;
@@ -31,5 +31,4 @@ tr {
   padding: 5px;
   background-color: white;
   margin: 10px 0 10px 20px;
-  align: center;
 }
