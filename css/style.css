@@ -4,13 +4,13 @@ body {
 h1 {
   top: 20px;
   font-size: 3em;
-  font-family: 'Devonshire', cursive;
+  font-family: 'Georgia', cursive;
   color: white;
 }
 td {
   top:5px;
   font-size: 1em;
-  font-family: 'Devonshire', cursive;
+  font-family: 'Georgia', cursive;
 }
 
 tr {
