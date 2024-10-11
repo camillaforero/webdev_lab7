@@ -7,12 +7,20 @@ td {
   font-family: 'Devonshire', cursive;
 }
 tr {
-  bgcolor="white";
+  background-color: white;
 }
 .image-p {
   float: right;
   border: 2px solid blue;
   width: 300px;
+  padding: 5px;
+  background-color: white;
+  margin: 10px 0 10px 20px;
+}
+.image-s{
+  float: right;
+  border: 2px solid blue;
+  width: 200px;
   padding: 5px;
   background-color: white;
   margin: 10px 0 10px 20px;
