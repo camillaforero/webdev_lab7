@@ -1,3 +1,9 @@
 body {
   background-image: url("../images/stars.jpeg");
 }
+#header h1 {
+  top:5px;
+  font-size: 3em;
+  font-family: 'Devonshire', cursive;
+  color: "white";
+}
