@@ -12,11 +12,7 @@ td {
   font-size: 1em;
   font-family: 'Devonshire', cursive;
 }
-td img{
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-}
+
 tr {
   background-color: white;
 }
@@ -27,6 +23,9 @@ tr {
   padding: 5px;
   background-color: white;
   margin: 10px 0 10px 20px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 .image-s {
   float: right;
@@ -35,4 +34,7 @@ tr {
   padding: 5px;
   background-color: white;
   margin: 10px 0 10px 20px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
