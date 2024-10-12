@@ -36,3 +36,31 @@ tr {
   margin-left: auto;
   margin-right: auto;
 }
+#row2 {
+  text-align: center;
+  color: LavenderBlush;
+}
+#row3 {
+  text-align: center;
+  color: Maroon;
+}
+#row4 {
+  text-align: center;
+  color: LightPink;
+}
+#row5 {
+  text-align: center;
+  color: MediumOrchid;
+}
+#row6 {
+  text-align: center;
+  color: ;
+}
+#row7 {
+  text-align: center;
+  color: Orchid;
+}
+#row8 {
+  text-align: center;
+  color: PaleVioletRed;
+}
